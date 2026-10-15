@@ -1,0 +1,123 @@
+
+{
+  "quizTitle": "MS Word Application",
+  "subject": "Computer Fundamentals",
+  "trade": "COPA",
+  "topic": "Microsoft Word",
+  "difficulty": "Easy",
+  "totalQuestions": 10,
+  "marksPerQuestion": 1,
+  "instructions": "Choose the correct answer.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Microsoft Word used for?",
+      "options": {
+        "A": "Creating documents",
+        "B": "Playing games",
+        "C": "Watching movies",
+        "D": "Browsing websites"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Which shortcut key is used to save a document?",
+      "options": {
+        "A": "Ctrl + P",
+        "B": "Ctrl + S",
+        "C": "Ctrl + C",
+        "D": "Ctrl + V"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which shortcut key is used to copy selected text?",
+      "options": {
+        "A": "Ctrl + X",
+        "B": "Ctrl + Z",
+        "C": "Ctrl + C",
+        "D": "Ctrl + A"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which shortcut key makes selected text bold?",
+      "options": {
+        "A": "Ctrl + B",
+        "B": "Ctrl + I",
+        "C": "Ctrl + U",
+        "D": "Ctrl + P"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "Which tab is used to insert a table?",
+      "options": {
+        "A": "Home",
+        "B": "Review",
+        "C": "Insert",
+        "D": "View"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "Which shortcut key opens the Print dialog?",
+      "options": {
+        "A": "Ctrl + S",
+        "B": "Ctrl + P",
+        "C": "Ctrl + N",
+        "D": "Ctrl + O"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which shortcut key undoes the last action?",
+      "options": {
+        "A": "Ctrl + Y",
+        "B": "Ctrl + A",
+        "C": "Ctrl + Z",
+        "D": "Ctrl + X"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Which alignment places text in the centre?",
+      "options": {
+        "A": "Left",
+        "B": "Right",
+        "C": "Justify",
+        "D": "Centre"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "Which shortcut key selects all text in a document?",
+      "options": {
+        "A": "Ctrl + A",
+        "B": "Ctrl + E",
+        "C": "Ctrl + F",
+        "D": "Ctrl + H"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "Which feature checks spelling mistakes?",
+      "options": {
+        "A": "Word Count",
+        "B": "Spelling and Grammar",
+        "C": "Page Colour",
+        "D": "Insert Table"
+      },
+      "answer": "B"
+    }
+  ]
+}
